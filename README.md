@@ -93,3 +93,5 @@ Here is a screenshot of the app configuration from developer.atlassian.com.
 ##  Loom Video
 
 You can view the walkthrough of the project and the tests in the Loom video:
+
+https://www.loom.com/share/1f5cb9a33f8946c896152d64404e2487?sid=2a99743b-6599-40bb-8aa9-46a5631e6946
