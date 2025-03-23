@@ -4,7 +4,7 @@ import { expect } from 'chai';
 
 describe('Confluence Integration Tests', function() {
 
-  const baseUrl = 'https://lirikoren57.atlassian.net/wiki/rest/api/';
+  const baseUrl = 'https://lirikoren57.atlassian.net/wiki/rest/api/'; // my domain
   const spaceKey = 'CI';  // my space key
 
   // Helper function to check if error type 

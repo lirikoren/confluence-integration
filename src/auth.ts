@@ -5,7 +5,7 @@ dotenv.config();
 
 const CLIENT_ID = process.env.CLIENT_ID!;
 const CLIENT_SECRET = process.env.CLIENT_SECRET!;
-const REDIRECT_URI = 'http://localhost:3000/oauth/callback';
+const REDIRECT_URI = process.env.REDIRECT_URI!;
 
 
 const oauth2 = new AuthorizationCode({
