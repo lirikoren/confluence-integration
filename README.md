@@ -9,3 +9,13 @@ Before running the tests, make sure you have the following prerequisites:
 
    ```bash
    npm --version
+3. **Running Tests**: To run the automated tests for this project:
+
+   1. Ensure you’ve set up the .env file correctly.
+
+   2. Run the following command:
+
+```bash
+   npm test
+
+
